@@ -1,0 +1,14 @@
+{
+"keywords": [
+    "program",
+    "c++"
+  ],
+  "author": "chinulz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinulz/program-c-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chinulz/program-c-/issues"
+  }
+ }
