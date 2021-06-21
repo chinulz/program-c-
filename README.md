@@ -1,2 +1,2 @@
 # program-c-
-THIS IS MY C++ PROGRAM
+INI ADALAH PROGRAM C++ SAYA
