@@ -7,7 +7,7 @@ printf("Nama Saya Adalah Ibnu Said\n");
 
 printf("Saya Kelas %s\n", "X RPL 2");
 
-printf("Umur Saya Adalah %d\n", 16);
+printf("Umur Saya Adalah %d\n", 17);
 
 return 0;
 
